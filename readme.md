@@ -4,3 +4,5 @@ So here is alternative standard, based of PHP-FIG's.
 It contains the same items, PHP-FIG pointed out right aspects of code and did a lot of work for this, but content of many of them is changed.
 
 If you do not agree with PHP-FIG - you can try to use this one.
+
+PSR's from fig-standards renamed into APSR's (Alternative PSR) and modified.
