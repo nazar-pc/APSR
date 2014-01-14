@@ -23,8 +23,8 @@ Examples
 Underscores in Namespaces and Class Names
 -----------------------------------------
 
-* `\namespace\package\Class_Name` => `/path/to/project/lib/vendor/namespace/package/Class_Name.php`
-* `\namespace\package_name\Class_Name` => `/path/to/project/lib/vendor/namespace/package_name/Class_Name.php`
+* `\namespace\package\Class_name` => `/path/to/project/lib/vendor/namespace/package/Class_name.php`
+* `\namespace\package_name\Class_name` => `/path/to/project/lib/vendor/namespace/package_name/Class_name.php`
 
 Example Implementation
 ----------------------
