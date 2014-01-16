@@ -8,7 +8,7 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 interpreted as described in [RFC 2119][].
 
 [RFC 2119]: http://www.ietf.org/rfc/rfc2119.txt
-[APSR-0]: https://github.com/nazar-pc/cs-standards/blob/master/APSR-0.md
+[APSR-0]: https://github.com/nazar-pc/APSR/blob/master/APSR-0.md
 
 
 1. Overview
